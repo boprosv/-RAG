@@ -19,3 +19,4 @@ It contains a 597 pages of Data Science knowledge.
 I load necessary libraries and select LLM options plus an embedding model:
 
 
+![image alt](https://github.com/boprosv/-RAG/blob/main/Screenshot%202025-01-01%20122246.png?raw=true)
