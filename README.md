@@ -22,3 +22,5 @@ I load necessary libraries and select LLM options plus an embedding model:
 ![image alt](https://github.com/boprosv/-RAG/blob/main/Screenshot%202025-01-01%20122246.png?raw=true)
 
 Then, I load the API Key, set up model selection, and set up memory
+
+![image alt](
