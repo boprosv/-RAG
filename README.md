@@ -11,6 +11,8 @@ As a starting information base I use  ISLP Data Science Book.
 
 It contains a 597 pages of Data Science knowledge.
 
+![image alt](https://github.com/boprosv/-RAG/blob/main/Screenshot%202025-01-01%20125957.png?raw=true)
+
 ![image alt](https://github.com/boprosv/-RAG/blob/main/Screenshot%202025-01-01%20130018.png?raw=true)
 
 
