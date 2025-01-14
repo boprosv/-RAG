@@ -30,4 +30,4 @@ Then, I load the API Key, set up model selection,sidebar for model selection and
 
 ![image alt](https://github.com/boprosv/-RAG/blob/main/Screenshot%202025-01-01%20124524.png?raw=true)
 
-This can be a database with specific knowledge for a company use...any documentation, specific domain knowledge, meetings transcripts etc. Olso, can be packed with any web information as well. A handy assistant that can be ran on a local model as well!
+This can be a database with specific knowledge for a company use...any documentation, specific domain knowledge, meetings transcripts etc. Olso, can be packed with any web information as well. A handy assistant!
